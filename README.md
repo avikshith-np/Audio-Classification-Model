@@ -23,7 +23,7 @@ Before you begin, ensure you have the following prerequisites installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/avikshith-np/Audio-Classification-Model
+   git clone https://github.com/avikshith-np/Audio-Classification-Model.git
    
 2. Create and activate a Conda environment (optional but recommended):
    ```bash
